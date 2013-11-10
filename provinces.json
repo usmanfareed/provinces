@@ -268,7 +268,7 @@
 { "name": "Swansea", "country": "GB", "region": "Wales" },
 { "name": "The Vale of Glamorgan", "country": "GB", "region": "Wales" },
 { "name": "Torfaen", "country": "GB", "region": "Wales" },
-{ "name": "Wrexham", "country": "GB", "region": "Wales" }
+{ "name": "Wrexham", "country": "GB", "region": "Wales" },
 
 {"short":"BW","name":"Baden-Württemberg","country":"DE"},
 {"short":"BY","name":"Bayern","country":"DE"},
