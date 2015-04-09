@@ -50,6 +50,12 @@
 {"short":"WV","name":"West Virginia","country":"US"},
 {"short":"WI","name":"Wisconsin","country":"US"},
 {"short":"WY","name":"Wyoming","country":"US"},
+{"short":"AS","name":"American Samoa","country":"US"},
+{"short":"GU","name":"Guam","country":"US"},
+{"short":"MP","name":"Northern Mariana Islands","country":"US"},
+{"short":"PR","name":"Puerto Rico","country":"US"},
+{"short":"UM","name":"United States Minor Outlying Islands","country":"US"},
+{"short":"VI","name":"Virgin Islands","country":"US"},
 
 {"short":"AB","name":"Alberta","country":"CA"},
 {"short":"BC","name":"British Columbia","country":"CA"},
