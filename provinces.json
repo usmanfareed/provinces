@@ -304,6 +304,12 @@
 {"short":"UT","name":"Utrecht","country":"NL"},
 {"short":"ZH","name":"Zuid-Holland","country":"NL"},
 {"short":"ZL","name":"Zeeland","country":"NL"},
+{"short":"AW","name":"Aruba","country":"NL"},
+{"short":"BQ","name":"Bonaire","country":"NL"},
+{"short":"BQ2","name":"Saba","country":"NL"},
+{"short":"BQ3","name":"Sint Eustatius","country":"NL"},
+{"short":"CW","name":"Curaçao","country":"NL"},
+{"short":"SX","name":"Sint Maarten","country":"NL"},
 
 {"short":"ANT","name":"Antwerpen","country":"BE"},
 {"short":"HAI","name":"Henegouwen","country":"BE", "alt": ["Hainaut"]},
