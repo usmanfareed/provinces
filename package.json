@@ -1,13 +1,14 @@
 {
   "name": "provinces",
-  "version": "0.2.1",
+  "version": "1.0.0",
   "description": "state and province lists for countries",
   "main": "index.js",
   "dependencies": {
     "chinesecities": "~0.0.2"
   },
   "devDependencies": {
-    "tape": "~1.0.4"
+    "has": "^1.0.0",
+    "tape": "^4.0.0"
   },
   "scripts": {
     "test": "tape test/*.js"
