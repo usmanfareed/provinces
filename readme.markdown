@@ -6,12 +6,15 @@ state and province lists for countries
 
 This module currently has states and provinces for:
 
-* united states
-* united kingdom
-* canada
-* mexico
-* australia
-* china
+* united states (US)
+* united kingdom (GB)
+* canada (CA)
+* mexico (MX)
+* australia (AU)
+* china (CN)
+* germany (DE)
+* belgium (BE)
+* netherlands (NL)
 
 # methods
 
@@ -26,8 +29,10 @@ Requiring the module gives you an array of object rows.
 Each row consists of:
 
 * row.name - full name of the province or state
+* row.country - country abbreviation
 * row.short - optional 2 or 3 character short name
 * row.alt - optional array of additional names and abbreviations
+* row.region - optional region of a country (for example: "Wales")
 
 # install
 
