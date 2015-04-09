@@ -1,6 +1,6 @@
 {
   "name": "provinces",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "state and province lists for countries",
   "main": "index.js",
   "dependencies": {
