@@ -55,7 +55,7 @@
 {"short":"BC","name":"British Columbia","country":"CA"},
 {"short":"MB","name":"Manitoba","country":"CA"},
 {"short":"NB","name":"New Brunswick","country":"CA"},
-{"short":"NL","name":"Newfoundland and Labrador","country":"CA"},
+{"short":"NL","name":"Newfoundland and Labrador","country":"CA","alt":["Newfoundland","Labrador"]},
 {"short":"NS","name":"Nova Scotia","country":"CA"},
 {"short":"NU","name":"Nunavut","country":"CA"},
 {"short":"NW","name":"Northwest Territories","country":"CA"},
