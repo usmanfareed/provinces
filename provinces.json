@@ -284,5 +284,29 @@
 {"short":"SN","name":"Sachsen","country":"DE"},
 {"short":"ST","name":"Sachsen-Anhalt","country":"DE"},
 {"short":"SH","name":"Schleswig-Holstein","country":"DE"},
-{"short":"TH","name":"Thüringen","country":"DE"}
+{"short":"TH","name":"Thüringen","country":"DE"},
+
+{"short":"DR","name":"Drenthe","country":"NL"},
+{"short":"FL","name":"Flevoland","country":"NL"},
+{"short":"FR","name":"Friesland","country":"NL"},
+{"short":"GD","name":"Gelderland","country":"NL"},
+{"short":"GR","name":"Groningen","country":"NL"},
+{"short":"LB","name":"Limburg","country":"NL"},
+{"short":"NB","name":"Noord-Brabant","country":"NL"},
+{"short":"NH","name":"Noord-Holland","country":"NL"},
+{"short":"OV","name":"Overijssel","country":"NL"},
+{"short":"UT","name":"Utrecht","country":"NL"},
+{"short":"ZH","name":"Zuid-Holland","country":"NL"},
+{"short":"ZL","name":"Zeeland","country":"NL"},
+
+{"short":"ANT","name":"Antwerpen","country":"BE"},
+{"short":"HAI","name":"Henegouwen","country":"BE", "alt": ["Hainaut"]},
+{"short":"LIE","name":"Luik","country":"BE", "alt": ["Liège"]},
+{"short":"LIM","name":"Limburg","country":"BE"},
+{"short":"LUX","name":"Luxemburg","country":"BE"},
+{"short":"NAM","name":"Namen","country":"BE"},
+{"short":"OVL","name":"Oost-Vlaanderen","country":"BE"},
+{"short":"VBR","name":"Vlaams-Brabant","country":"BE"},
+{"short":"WBR","name":"Waals-Brabant","country":"BE"},
+{"short":"WVL","name":"West-Vlaanderen","country":"BE"}
 ]
