@@ -443,6 +443,19 @@
 { "short": "ID-PB", "name": "Special Region of West Papua", "country": "ID" },
 { "short": "ID-SR", "name": "West Sulawesi", "country": "ID" },
 { "short": "ID-SB", "name": "West Sumatra", "country": "ID" },
-{ "short": "ID-YO", "name": "Special Region of Yogyakarta", "country": "ID" }
+{ "short": "ID-YO", "name": "Special Region of Yogyakarta", "country": "ID" },
+
+{ "name": "Irbid", "country": "JOR" },
+{ "name": "Ajloun", "country": "JOR" },
+{ "name": "Jerash", "country": "JOR" },
+{ "name": "Mafraq", "country": "JOR" },
+{ "name": "Balqa", "country": "JOR" },
+{ "name": "Amman", "country": "JOR" },
+{ "name": "Zarqa", "country": "JOR" },
+{ "name": "Madaba", "country": "JOR" },
+{ "name": "Karak", "country": "JOR" },
+{ "name": "Tafilah", "country": "JOR" },
+{ "name": "Ma'an", "country": "JOR" },
+{ "name": "Aqaba", "country": "JOR" }
 
 ]
