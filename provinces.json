@@ -320,5 +320,11 @@
 {"short":"OVL","name":"Oost-Vlaanderen","country":"BE"},
 {"short":"VBR","name":"Vlaams-Brabant","country":"BE"},
 {"short":"WBR","name":"Waals-Brabant","country":"BE"},
-{"short":"WVL","name":"West-Vlaanderen","country":"BE"}
+{"short":"WVL","name":"West-Vlaanderen","country":"BE"},
+
+{"name":"Hovedstaden","country":"DK"},
+{"name":"Midtjylland","country":"DK"},
+{"name":"Nordjylland","country":"DK"},
+{"name":"Sjælland","country":"DK"},
+{"name":"Syddanmark","country":"DK"}
 ]
