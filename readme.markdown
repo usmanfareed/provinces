@@ -15,6 +15,7 @@ This module currently has states and provinces for:
 * germany (DE)
 * belgium (BE)
 * netherlands (NL)
+* denmark (DK)
 
 # methods
 
