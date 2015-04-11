@@ -1037,5 +1037,18 @@
 { "name": "Sahiwal", "country": "PK" },
 { "name": "Sibi", "country": "PK" },
 { "name": "Sukkur", "country": "PK" },
-{ "name": "Zhob", "country": "PK" }
+{ "name": "Zhob", "country": "PK" },
+
+{ "name": "Anambra", "country": "NG" },
+{ "name": "Enugu", "country": "NG" },
+{ "name": "Akwa Ibom", "country": "NG" },
+{ "name": "Adamawa", "country": "NG" },
+{ "name": "Abia", "country": "NG" },
+{ "name": "Bauchi", "country": "NG" },
+{ "name": "Bayelsa", "country": "NG" },
+{ "name": "Benue", "country": "NG" },
+{ "name": "Borno", "country": "NG" },
+{ "name": "Cross River", "country": "NG" },
+{ "name": "Delta", "country": "NG" },
+{ "name": "Ebonyi", "country": "NG" }
 ]
