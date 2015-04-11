@@ -493,7 +493,33 @@
 { "short": "DD", "name": "Daman and Diu", "country": "IN" },
 { "short": "LD", "name": "Lakshadweep", "country": "IN" },
 { "short": "DL", "name": "National Capital Territory of Delhi", "country": "IN" },
-{ "short": "PY", "name": "Puducherry", "country": "IN" }
+{ "short": "PY", "name": "Puducherry", "country": "IN" },
+
+{ "name": "Phnom Penh Municipality", "country": "KH" },
+{ "name": "Banteay Meanchey", "country": "KH" },
+{ "name": "Battambang", "country": "KH" },
+{ "name": "Kampong Cham", "country": "KH" },
+{ "name": "Kampong Chhnang", "country": "KH" },
+{ "name": "Kampong Speu", "country": "KH" },
+{ "name": "Kampong Thom", "country": "KH" },
+{ "name": "Kampot", "country": "KH" },
+{ "name": "Kandal", "country": "KH" },
+{ "name": "Koh Kong", "country": "KH" },
+{ "name": "Kep", "country": "KH" },
+{ "name": "Kratié", "country": "KH" },
+{ "name": "Mondulkiri", "country": "KH" },
+{ "name": "Oddar Meanchey", "country": "KH" },
+{ "name": "Pailin", "country": "KH" },
+{ "name": "Preah Sihanouk", "country": "KH" },
+{ "name": "Preah Vihear", "country": "KH" },
+{ "name": "Pursat", "country": "KH" },
+{ "name": "Prey Veng", "country": "KH" },
+{ "name": "Ratanakiri", "country": "KH" },
+{ "name": "Siem Reap", "country": "KH" },
+{ "name": "Stung Treng", "country": "KH" },
+{ "name": "Svay Rieng", "country": "KH" },
+{ "name": "Takéo", "country": "KH" },
+{ "name": "Tbong Khmum", "country": "KH" }
 
 
 ]
