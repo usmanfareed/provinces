@@ -729,6 +729,24 @@
 { "name": "Coronel Portillo", "region": "Ucayali", "country": "PE" },
 { "name": "Atalaya", "region": "Ucayali", "country": "PE" },
 { "name": "Padre Abad", "region": "Ucayali", "country": "PE" },
-{ "name": "Purús", "region": "Ucayali", "country": "PE" }
+{ "name": "Purús", "region": "Ucayali", "country": "PE" },
+
+{ "name": "Camagüey", "country": "CU" },
+{ "name": "Ciego de Ávila", "country": "CU" },
+{ "name": "Cienfuegos", "country": "CU" },
+{ "name": "Havana", "country": "CU" },
+{ "name": "Bayamo", "country": "CU" },
+{ "name": "Guantánamo", "country": "CU" },
+{ "name": "Holguín", "country": "CU" },
+{ "name": "Nueva Gerona", "country": "CU" },
+{ "name": "Artemisa", "country": "CU" },
+{ "name": "Las Tunas", "country": "CU" },
+{ "name": "Matanzas", "country": "CU" },
+{ "name": "San José de las Lajas", "country": "CU" },
+{ "name": "Pinar del Río", "country": "CU" },
+{ "name": "Sancti Spíritus", "country": "CU" },
+{ "name": "Santiago de Cuba", "country": "CU" },
+{ "name": "Santa Clara", "country": "CU" },
+{ "name": "Havana", "country": "CU" }
 
 ]
