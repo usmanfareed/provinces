@@ -16,6 +16,21 @@ This module currently has states and provinces for:
 * belgium (BE)
 * netherlands (NL)
 * denmark (DK)
+* Turkey (TR)
+* Indonesia (ID)
+* Jordan (JOR)
+* India (IN)
+* Cambodia (KH)
+* Ethiopia (ET)
+* Peru (PE)
+* Cuba (CU)
+* Argentina (AR)
+* Chile (CL)
+* Bolivia (BO)
+* Bangladesh (BD)
+* Pakistan (PK)
+* Nigeria (NG)
+* Japan (JP)
 
 # methods
 
