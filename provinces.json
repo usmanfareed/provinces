@@ -326,5 +326,15 @@
 {"name":"Midtjylland","country":"DK"},
 {"name":"Nordjylland","country":"DK"},
 {"name":"Sjælland","country":"DK"},
-{"name":"Syddanmark","country":"DK"}
+{"name":"Syddanmark","country":"DK"},
+
+{"short":"B","name":"Burgenland","country":"AT"},
+{"short":"K","name":"Kärnten","country":"AT"},
+{"short":"NÖ","name":"Niederösterreich","country":"AT"},
+{"short":"OÖ","name":"Oberösterreich","country":"AT"},
+{"short":"S","name":"Salzburg","country":"AT"},
+{"short":"ST","name":"Steiermark","country":"AT"},
+{"short":"T","name":"Tirol","country":"AT"},
+{"short":"V","name":"Vorarlberg","country":"AT"},
+{"short":"W","name":"Wien","country":"AT"}
 ]
