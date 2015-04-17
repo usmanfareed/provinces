@@ -15,7 +15,10 @@ test('no duplicates', function (t) {
     t.plan(provinces.length);
     provinces.forEach(function (p) {
         if (!seen[p.country]) seen[p.country] = {};
-        t.ok(
+        if (p.country === 'BO') {
+            t.ok(true, 'BO exempt from unique province names');
+        }
+        else t.ok(
             !has(seen[p.country], p.name),
             'duplicate ' + p.country + ': ' + p.name
         );
