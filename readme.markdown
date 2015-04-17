@@ -31,6 +31,7 @@ This module currently has states and provinces for:
 * Pakistan (PK)
 * Nigeria (NG)
 * Japan (JP)
+* austria (AT)
 
 # methods
 
