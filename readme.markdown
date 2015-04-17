@@ -18,7 +18,7 @@ This module currently has states and provinces for:
 * denmark (DK)
 * Turkey (TR)
 * Indonesia (ID)
-* Jordan (JOR)
+* Jordan (JO)
 * India (IN)
 * Cambodia (KH)
 * Ethiopia (ET)
