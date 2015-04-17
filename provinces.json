@@ -1098,5 +1098,15 @@
 { "name": "和歌山県", "english": "Wakayama", "country": "JP" },
 { "name": "山形県", "english": "Yamagata", "country": "JP" },
 { "name": "山口県", "english": "Yamaguchi", "country": "JP" },
-{ "name": "山梨県", "english": "Yamanashi", "country": "JP" }
+{ "name": "山梨県", "english": "Yamanashi", "country": "JP" },
+
+{"short":"B","name":"Burgenland","country":"AT"},
+{"short":"K","name":"Kärnten","country":"AT"},
+{"short":"NÖ","name":"Niederösterreich","country":"AT"},
+{"short":"OÖ","name":"Oberösterreich","country":"AT"},
+{"short":"S","name":"Salzburg","country":"AT"},
+{"short":"ST","name":"Steiermark","country":"AT"},
+{"short":"T","name":"Tirol","country":"AT"},
+{"short":"V","name":"Vorarlberg","country":"AT"},
+{"short":"W","name":"Wien","country":"AT"}
 ]
