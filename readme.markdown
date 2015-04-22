@@ -33,6 +33,7 @@ This module currently has states and provinces for:
 * Japan (JP)
 * austria (AT)
 * brazil (BR)
+* Philippines (PH)
 
 # methods
 
