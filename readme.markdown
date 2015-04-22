@@ -34,6 +34,7 @@ This module currently has states and provinces for:
 * austria (AT)
 * brazil (BR)
 * Philippines (PH)
+* Vietnam (VN)
 
 # methods
 
