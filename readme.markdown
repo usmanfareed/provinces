@@ -27,6 +27,7 @@ This module currently has states and provinces for:
 * Argentina (AR)
 * Chile (CL)
 * Bolivia (BO)
+* Spain (ES)
 * Bangladesh (BD)
 * Pakistan (PK)
 * Nigeria (NG)
