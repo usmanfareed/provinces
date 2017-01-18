@@ -36,6 +36,7 @@ This module currently has states and provinces for:
 * brazil (BR)
 * Philippines (PH)
 * Vietnam (VN)
+* Costa Rica (CR)
 
 # methods
 

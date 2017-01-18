@@ -1329,5 +1329,13 @@
 { "name": "Hậu Giang", "country": "VN" },
 { "name": "Sóc Trăng", "country": "VN" },
 { "name": "Bạc Liêu", "country": "VN" },
-{ "name": "Cà Mau", "country": "VN" }
+{ "name": "Cà Mau", "country": "VN" },
+
+{ "name": "San José", "country": "CR" },
+{ "name": "Alajuela", "country": "CR" },
+{ "name": "Cartago", "country": "CR" },
+{ "name": "Heredia", "country": "CR" },
+{ "name": "Guanacaste", "country": "CR" },
+{ "name": "Puntarenas", "country": "CR" },
+{ "name": "Limón", "country": "CR" }
 ]
