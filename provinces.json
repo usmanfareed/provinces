@@ -1362,5 +1362,17 @@
 { "name": "Heredia", "country": "CR" },
 { "name": "Guanacaste", "country": "CR" },
 { "name": "Puntarenas", "country": "CR" },
-{ "name": "Limón", "country": "CR" }
+{ "name": "Limón", "country": "CR" },
+
+{ "name": "Auckland", "country": "NZ" },
+{ "name": "New Plymouth", "country": "NZ" },
+{ "name": "Hawke's Bay", "country": "NZ" },
+{ "name": "Wellington", "country": "NZ" },
+{ "name": "Nelson", "country": "NZ" },
+{ "name": "Marlborough", "country": "NZ" },
+{ "name": "Westland", "country": "NZ" },
+{ "name": "Canterbury", "country": "NZ" },
+{ "name": "Otago", "country": "NZ" },
+{ "name": "Southland", "country": "NZ" }
+
 ]
