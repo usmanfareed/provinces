@@ -3,9 +3,6 @@
   "version": "1.9.0",
   "description": "state and province lists for countries",
   "main": "index.js",
-  "dependencies": {
-    "chinesecities": "~0.0.2"
-  },
   "devDependencies": {
     "has": "^1.0.0",
     "tape": "^4.0.0"
