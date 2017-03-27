@@ -294,7 +294,7 @@
 
 {"short":"DR","name":"Drenthe","country":"NL"},
 {"short":"FL","name":"Flevoland","country":"NL"},
-{"short":"FR","name":"Friesland","country":"NL"},
+{"short":"FR","name":"Friesland","country":"NL","alt":["Fryslân"]},
 {"short":"GD","name":"Gelderland","country":"NL"},
 {"short":"GR","name":"Groningen","country":"NL"},
 {"short":"LB","name":"Limburg","country":"NL"},
